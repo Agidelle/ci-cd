@@ -1,3 +1,3 @@
 module github.com/agidelle/ci-cd
 
-go 1.24.0
+go 1.22.0
